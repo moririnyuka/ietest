@@ -1,7 +1,7 @@
 # ietest
 講義用
 ## hogehoge
-##ねたい
+## ねたい
 ```
 echo "wa-"
 ```
